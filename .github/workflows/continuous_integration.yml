@@ -1,4 +1,4 @@
-name: Continuous Integration
+c0tazarname: Continuous Integration
 on:
   pull_request:
     branches:
